@@ -1,14 +1,17 @@
+![image](https://user-images.githubusercontent.com/18647088/187325203-5d1589a8-a201-4c2f-9025-f01ddcaf67ed.png)
+
+
 # Descripción
 ## ¿Quieres aprender React Actual o migrarte a trabajar con Hooks?
 
-Este curso tiene por objetivo llevarte de cero conocimiento de React hasta un nivel competitivo en el ambiente laboral de hoy en día. Este curso está construido 100% en Hooks y functional components.
+- Introducción a los conceptos que necesitaremos para entrar en React de la forma más cómoda posible.
 
-También cuenta con secciones sobre pruebas unitarias y de integración en cada aplicación que hacemos en el curso, esto incluye pruebas en componentes, hooks, customHooks, context, Redux, Fetch, mocks, spies, snapshots y mucho más relacionado al unit test.
+- Curso construido 100% en Hooks y functional components.
 
-Sin olvidar que todos empezamos de cero en un momento, el curso cuenta con una introducción a los conceptos que necesitaremos para entrar en React de la forma más cómoda posible.
+- Cuenta con secciones sobre pruebas unitarias y de integración en cada aplicación que hacemos en el curso, esto incluye pruebas en componentes, hooks, customHooks, context, Redux, Fetch, mocks, spies, snapshots y mucho más relacionado al unit test.
 
-Este curso cuenta con mas de 400 lecciones y más de 40 horas de video haciendo aplicaciones y pruebas distintas que nos ayudará a alcanzar el objetivo de dominar React y otras tecnologías que lo rodean, hay muchas tareas y ejercicios que te ayudarán a asimilar los conocimientos necesarios para ser un FullStack Developer utilizando React y Node en el Backend junto con Mongo y Firestore como bases de datos.
-
+- Cuenta con mas de 400 lecciones y más de 40 horas de video haciendo aplicaciones y pruebas distintas que nos ayudará a alcanzar el objetivo de dominar React y otras tecnologías que lo rodean, hay muchas tareas y ejercicios que te ayudarán a asimilar los conocimientos necesarios para ser un FullStack Developer utilizando React y Node en el Backend junto con Mongo y Firestore como bases de datos.
+---
 ## Este es un listado de varios de los temas que tocamos en el curso:
 
 1. React a profundidad
